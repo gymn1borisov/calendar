@@ -11,6 +11,12 @@ table, td, tr {
    border:3px solid black;
    font-size: 28px; 
 }
+table{
+    background-image: url('fon05.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.75;
+}
 td{
    text-align : center; 
 }
