@@ -18,6 +18,7 @@ table{
 }
 td{
    text-align : center; 
+    font-weight:bold;
 }
 .trpr{
    border-style:none;
