@@ -3,6 +3,8 @@ html, body {
     margin: 0;
     padding: 0;
     background-image:url("fon.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     -webkit-text-stroke: 0.5px white;
 }
 h1{
