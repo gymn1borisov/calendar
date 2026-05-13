@@ -11,7 +11,7 @@ table, td, tr {
    border:3px solid black;
    font-size: 28px; 
 }
-table{
+table::before{
     background-image: url('fon09.jpg');
     background-size: cover;
     background-repeat: no-repeat;
