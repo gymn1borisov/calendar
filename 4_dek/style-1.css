@@ -12,10 +12,11 @@ table, td, tr {
    font-size: 28px; 
 }
 table{
-    background-image: url('fon12.jpg');
+    background-image: url('fon12.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 td{
    text-align : center; 
+    font-weight:bold;
 }
