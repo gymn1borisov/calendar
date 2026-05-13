@@ -7,4 +7,6 @@ text
 }
 body{
    background-image: url("fon.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
 }
