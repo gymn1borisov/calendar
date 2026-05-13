@@ -12,10 +12,9 @@ table, td, tr {
    font-size: 28px; 
 }
 table{
-    background-image: url('fon01.jpg');
+    background-image: url('fon01.png');
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.75;
 }
 td{
    text-align : center; 
